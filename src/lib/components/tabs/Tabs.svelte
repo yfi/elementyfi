@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { nanoid } from "../nanoid"
+  import { nanoid } from "./nanoid"
   import { writable } from "svelte/store"
   import { onMount, setContext } from "svelte"
 
